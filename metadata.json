@@ -1,0 +1,6 @@
+{
+  "name": "CineTrack - Filmes, Séries & Animes",
+  "description": "Gerenciador completo de listas e rastreador de progresso de episódios para filmes, séries e animes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
